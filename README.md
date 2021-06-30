@@ -1,3 +1,3 @@
 # cpp_chat
 
-Simple cpp chat writen using Qt.
+Simple cpp chat created using Qt.
